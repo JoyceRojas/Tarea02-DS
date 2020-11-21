@@ -2,6 +2,6 @@
 
 ## Integrantes:
 
-> Angie Flores
-> Joyce Rojas
-> Wesley Briones
+- Angie Flores
+- Joyce Rojas
+- Wesley Briones
